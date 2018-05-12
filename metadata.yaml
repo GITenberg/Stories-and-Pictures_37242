@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38722
     wikipedia: http://en.wikipedia.org/wiki/I._L._Peretz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37242#Stories-and-Pictures
 gutenberg_issued: '2011-08-28'
 gutenberg_type: Text
 identifiers:
