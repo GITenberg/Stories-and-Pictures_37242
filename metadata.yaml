@@ -1,0 +1,51 @@
+_repo: Stories-and-Pictures_37242
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Frank, Helena
+    gutenberg_agent_id: '34814'
+    url: http://www.gutenberg.org/2009/agents/34814
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peretz, Isaac Loeb
+    aliases:
+    - Perez, Jizchok Lejb
+    - Perez, Isaac Loeb
+    - Perez, Jizchok Leib
+    - Perez, Jizchak Lejb
+    birthdate: 1851
+    deathdate: 1915
+    gutenberg_agent_id: '38722'
+    url: http://www.gutenberg.org/2009/agents/38722
+    wikipedia: http://en.wikipedia.org/wiki/I._L._Peretz
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Peretz, Isaac Leib, 1851 or 1852-1915 -- Translations into English'
+- !lcsh 'Jews -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Jewish fiction'
+tableOfContents: 'Preface -- If not higher -- Domestic happiness -- In the post-chaise
+  -- The new tune -- Married -- The seventh candle of blessing -- The widow -- The
+  messenger -- What is the soul? -- In time of pestilence -- Bontzye Shweig -- The
+  dead town -- The days of the Messiah -- Kabbalists -- Travel pictures: Trust. Only
+  go! What should a Jewess need? No. 42. The maskil. The rabbi of Tishewitz. Tales
+  that are told. A little boy. The Yartseff Rabbi. Lyashtzof. The first attempt. The
+  second attempt. At the Shochet''s. The rebbitzin of skull. Insured. The fire. The
+  emigrant. The madman. Misery. The Làmed-Wòfnik. The informer -- The outcast -- A
+  chat -- The pike -- The fast -- The woman mistress Hannah -- In the pond -- The
+  Chanukah light -- The poor little boy -- Underground -- Between two mountains --
+  The image.'
+title: Stories and Pictures
+url: http://www.gutenberg.org/ebooks/37242
